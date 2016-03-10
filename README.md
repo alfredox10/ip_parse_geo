@@ -45,3 +45,5 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n'
 IGNORE 0 LINES;
 ```
+
+* Run main.py
