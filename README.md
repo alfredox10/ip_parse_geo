@@ -1,3 +1,14 @@
+##Description
+#####Program that will read a given set of IPs and perform Geo IP look ups by accepting a query to filter results in python.
+### Objectives
+##### * Create a language and algorithm for filtering
+##### * Reading, parsing, and extracting IP addresses from unstructured text in an efficient manner
+### Technical
+##### * The filter should implement a generic query language that can be passed abstract parameters
+##### * The main function should read the attached file with 5k IP addresses with words mixed in and parse out ips
+  
+.  
+
 ####1 - Install Python dependencies:
 ```
 sudo apt-get install python2.7-mysqldb
